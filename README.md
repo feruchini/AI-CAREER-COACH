@@ -1,6 +1,6 @@
 Meet GOATCOACH, 
 
-  ##1.Project Overview 
+##1. Project Overview 
 
   My AI Career Coach is designed to help college seniors and recent
 graduates feel prepared for behavioral software
