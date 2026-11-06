@@ -1,6 +1,6 @@
 Meet GOATCOACH, 
 
-##1. Project Overview 
+## 1. Project Overview 
 
   My AI Career Coach is designed to help college seniors and recent
 graduates feel prepared for behavioral software
@@ -10,7 +10,7 @@ The career pathway that this targets is Software Engineering
 
 GOOGLE NOTEBOOKLM
 
-##2. The Problem I'm Solving
+## 2. The Problem I'm Solving
 Many college seniors and recent graduates feel unprepared for software
 engineering interviews. I'm facing this challenge myself right now, and
 I saw the same struggle among classmates as graduation approached. I
@@ -20,7 +20,7 @@ stressful and confusing interview prep can be.
   This tool helps because it gives candidates a place to practice behavioral interview questions, 
 get feedback grounded in real sources, and build confidence before the interview, instead of trying to figure it all out alone.
 
-##3. How My AI Career Coach Works
+## 3. How My AI Career Coach Works
 I curated resources including:
 - Qualtrics, "A Guide to the Software Engineer Job Hunt," a career guide
   written for college students and new grads
@@ -33,7 +33,7 @@ I used NotebookLM to analyze these resources and provide source-grounded
 career guidance.
 
 
-##4. My AI Career Coach in Action
+## 4. My AI Career Coach in Action
 
    EXAMPLE 1: Career Guidance
 **My prompt:** Based on my sources, what are the top skills and
@@ -60,7 +60,7 @@ talk about showing I have relevant experience.
 
 **My next steps:** NotebookLM compared my resume to the job requirements and built a plan around my gaps. First I’ll strengthen Python, SQL, and testing by adding pytest tests to one of my existing web projects, then learn AWS basics and build a small data pipeline project. In the final stretch I’ll add Docker and TypeScript basics, clean up my GitHub, and run full mock interviews.
 
-##5. Testing and Improving My Assistant
+## 5. Testing and Improving My Assistant
 
 **Original prompt:** Based on my sources and my resume, create a step-by-step action plan for the next 30, 60, and 90 days to become a strong candidate for the Bambee HR Junior Software Engineer role. Include specific skills to build, projects to work on, and interview practice. 
 
@@ -69,7 +69,7 @@ talk about showing I have relevant experience.
 **What changed and why** My original prompt was extremely broad and it assumed many things. For one my original prompt did not place any restrictions, so the response I got back was very ambitious and assumed I had unlimited time. I also changed it so that it would focus on my biggest gaps so that I won't waste time on parts I already know. Finally, to make sure I was learning I added measurable goals to make the plan realistic, easier to follow, and easier to check my progress.  
 
 
-##6. Responsible AI
+## 6. Responsible AI
 How did I check the AI's output for accuracy,
 bias, or misleading information?
 
