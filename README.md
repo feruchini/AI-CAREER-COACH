@@ -58,18 +58,18 @@ talk about showing I have relevant experience.
   EXAMPLE 3: Career Action Plan
 **My prompt** Based on my sources and my resume, create a step-by-step action plan for the next 30, 60, and 90 days to become a strong candidate for the Bambee HR Junior Software Engineer role. Include specific skills to build, projects to work on, and interview practice. 
 
-**My next steps:**NotebookLM compared my resume to the job requirements and built a plan around my gaps. First I’ll strengthen Python, SQL, and testing by adding pytest tests to one of my existing web projects, then learn AWS basics and build a small data pipeline project. In the final stretch I’ll add Docker and TypeScript basics, clean up my GitHub, and run full mock interviews.
+**My next steps:** NotebookLM compared my resume to the job requirements and built a plan around my gaps. First I’ll strengthen Python, SQL, and testing by adding pytest tests to one of my existing web projects, then learn AWS basics and build a small data pipeline project. In the final stretch I’ll add Docker and TypeScript basics, clean up my GitHub, and run full mock interviews.
 
 5. Testing and Improving My Assistant
 
-**Original prompt:**Based on my sources and my resume, create a step-by-step action plan for the next 30, 60, and 90 days to become a strong candidate for the Bambee HR Junior Software Engineer role. Include specific skills to build, projects to work on, and interview practice. 
+**Original prompt:** Based on my sources and my resume, create a step-by-step action plan for the next 30, 60, and 90 days to become a strong candidate for the Bambee HR Junior Software Engineer role. Include specific skills to build, projects to work on, and interview practice. 
 
 **Improved prompt:** Based only on my sources and my resume, create a realistic 30, 60, and 90-day plan for becoming a strong candidate for the Bambee HR Junior Software Engineer role. Assume I can spend about 1 to 2 hours per day. Focus on the 3 biggest gaps between my resume and the job description. For each stage, give one measurable goal, 2 to 3 specific tasks, and one interview practice activity. Say which source supports each recommendation, and keep any numbers consistent.
 
 **What changed and why** My original prompt was extremely broad and it assumed many things. For one my original prompt did not place any restrictions, so the response I got back was very ambitious and assumed I had unlimited time. I also changed it so that it would focus on my biggest gaps so that I won't waste time on parts I already know. Finally, to make sure I was learning I added measurable goals to make the plan realistic, easier to follow, and easier to check my progress.  
 
 
-6. Responsible AI
+##6. Responsible AI
 How did I check the AI's output for accuracy,
 bias, or misleading information?
 
